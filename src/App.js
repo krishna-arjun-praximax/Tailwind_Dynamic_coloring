@@ -50,9 +50,21 @@ const App = () => {
             </div>
           </div>
           <div className="flex mt-24 space-x-10">
-            <img className="w-52 h-52" src={require("./book1.jpg")} alt="" />
-            <img className="w-52 h-52" src={require("./cycle.jpg")} alt="" />
-            <img className="w-52 h-52" src={require("./science.jpg")} alt="" />
+            <img
+              className="w-52 h-52"
+              src={require("./Images/book1.jpg")}
+              alt=""
+            />
+            <img
+              className="w-52 h-52"
+              src={require("./Images/cycle.jpg")}
+              alt=""
+            />
+            <img
+              className="w-52 h-52"
+              src={require("./Images/science.jpg")}
+              alt=""
+            />
           </div>
         </div>
       </div>
