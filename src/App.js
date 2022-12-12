@@ -10,6 +10,9 @@ const App = () => {
       }`}
     >
       <div className="flex flex-col w-full">
+        <div className="hidden bg-red-300"></div>
+        <div className="hidden bg-cyan-300"></div>
+        <div className="hidden bg-violet-300"></div>
         <div className="flex w-full mt-5 ml-10 space-x-3 justify-between font-semibold">
           <div className="flex space-x-3">
             <h1>ARTICLES</h1>
